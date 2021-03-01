@@ -1,0 +1,11 @@
+{
+    "statusCode": "integer",
+    "headers": {
+        "Access-Control-Allow-Origin": "*"
+    },
+    "body": {
+        "customerId": "string",
+        "sessionId": "string",
+        "success": "boolean"
+    }
+}
